@@ -1,4 +1,4 @@
-# Captcha-Solver-Navia-Intern
+# Number-Captcha-Solver
 Captcha Solver. 
 
 Takes in an image of a captcha of five numeric digits, and returns the numerical output through character recognition.
